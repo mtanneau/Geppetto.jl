@@ -27,7 +27,7 @@ const ANIMALS = String15[
     "Crow",
     "Dace",
     "Deer",
-    "Dik-dik",
+    "Dikdik",
     "Dingo",
     "Dolphin",
     "Donkey",
