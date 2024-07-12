@@ -1,6 +1,6 @@
-name = "NameGen"
-uuid = "a92c3cb4-10a9-4fc0-97cd-a00a57b668ac"
-repo = "https://github.com/mtanneau/NameGen.jl.git"
+name = "Geppetto"
+uuid = "7616020f-7d25-45ac-879d-3d4711576aab"
+repo = "https://github.com/mtanneau/Geppetto.jl.git"
 version = "0.1.0"
 
 [deps]

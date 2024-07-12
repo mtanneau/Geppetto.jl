@@ -1,4 +1,4 @@
-module NameGen
+module Geppetto
 
 using Random
 
@@ -19,4 +19,4 @@ function randname(rng::AbstractRNG)
     return "$(adjective)-$(color)-$(animal)"
 end
 
-end # module NameGen
+end # module Geppetto

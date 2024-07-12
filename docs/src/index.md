@@ -1,3 +1,3 @@
-# NameGen.jl
+# Geppetto.jl
 
-Documentation for NameGen.jl
+Documentation for Geppetto.jl

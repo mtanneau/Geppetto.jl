@@ -1,11 +1,11 @@
-# NameGen.jl
+# Geppetto.jl
 Random name generator
 
 ## Installation
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/mtanneau/NameGen.jl.git")
+Pkg.add(url="https://github.com/mtanneau/Geppetto.jl.git")
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ The package exports a single function `randname`, which generates a random `Stri
 `"{adjective}-{color}-{animal}"`.
 
 ```julia
-julia> using NameGen
+julia> using Geppetto
 
 julia> randname()
 "Quiet-Red-Lemming"

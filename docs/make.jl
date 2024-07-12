@@ -1,10 +1,10 @@
 using Documenter
-using NameGen
+using Geppetto
 
 makedocs(
-    sitename = "NameGen",
+    sitename = "Geppetto",
     format = Documenter.HTML(),
-    modules = [NameGen]
+    modules = [Geppetto]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
